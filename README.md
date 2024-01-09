@@ -26,10 +26,16 @@
   
   If you have Git installed, click the green "Code" drop down menu, and copy the HTTPS address to your clipboard.
   Open GitBash from the location you want to install the game, and input the command "git clone" and paste the HTTPS address. Once the clone is complete, locate and open the "Dungeon Runner" executable, and you're playing!
+  
+  ![Dungeon-Runner GitBash](https://github.com/H4lfdan/Dungeon-Runner/assets/105895180/2d8d1ab2-3a78-4eb2-b511-83737ec0d8b1)
+
+  ![image](https://github.com/H4lfdan/Dungeon-Runner/assets/105895180/fe92a7e7-52ad-40d1-8352-2a98088eec40)
+
+
 
   **Without Git**
 
-  If you haven't got Git installed, still click the green Code drop down menu, but select "Download Zip" instead. Once downloaded, opening the Dungeon Runner executable will prompt you to extract the necessary files. Extract them all, and the game is ready.
+  If you haven't got Git installed, still click the green "Code" drop down menu, but select "Download Zip" instead. Once downloaded, opening the Dungeon Runner executable will prompt you to extract the necessary files. Extract them all, and the game is ready.
 
   Enjoy!
 
