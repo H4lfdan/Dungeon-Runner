@@ -29,7 +29,9 @@
 
   **Without Git**
 
-  If you haven't got Git installed, still click the green Code drop down menu, but select "Download Zip" instead. Once downloaded, opening the Dungeon Runner executable will prompt you to extract the necessary files. Extract them all, and the game is ready!
+  If you haven't got Git installed, still click the green Code drop down menu, but select "Download Zip" instead. Once downloaded, opening the Dungeon Runner executable will prompt you to extract the necessary files. Extract them all, and the game is ready.
+
+  Enjoy!
 
 .
 
