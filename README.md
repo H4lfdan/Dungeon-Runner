@@ -19,6 +19,19 @@
 
 **How to Run the Game**
 
+  ![Dungeon-Runner ReadMe Instructions](https://github.com/H4lfdan/Dungeon-Runner/assets/105895180/d107044f-5a29-465d-828a-788054011b41)
+  .
+
+  **With Git**
+  
+  If you have Git installed, click the green "Code" drop down menu, and copy the HTTPS address to your clipboard.
+  Open GitBash from the location you want to install the game, and input the command "git clone" and paste the HTTPS address. Once the clone is complete, locate and open the "Dungeon Runner" executable, and you're playing!
+
+  **Without Git**
+
+  If you haven't got Git installed, still click the green Code drop down menu, but select "Download Zip" instead. Once downloaded, opening the Dungeon Runner executable will prompt you to extract the necessary files. Extract them all, and the game is ready!
+
+.
 
 
   ![Dungeon-Runner2](https://github.com/H4lfdan/Dungeon-Runner/assets/105895180/20075b8c-2cf7-4f4e-92f8-b6ca880a30f5)
