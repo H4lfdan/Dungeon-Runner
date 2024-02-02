@@ -63,6 +63,8 @@
 
   I considered having the beholders only fire if they had line of sight, but I wanted to reward the player for using clever positioning to take cover from ranged attacks. However this made ranged enemies very easy to manipulate so the player could fire on them without risking taking damage. I then created the Beholder Boss, and made it fire a separate projectile. Regular beholder missiles only find the player's location when they are instantiated, and then move in the direction of that location. I set the Boss's projectile to LookAt the target in Update, and I had a seeker missile. Finally, perhaps my favorite feature of this entire project, in order to ensure that the player has to stay on the move when facing a Beholder Boss, I gave most of the terrain the "Destructable" tag, and set the seeker to destroy destructable objects on collision.
 
+  In the future, I intend to have the NavMesh update whenever terrain is destroyed. As it stands, enemies will continue to navigate over destroyed terrain.
+
 **Pickups**
 
   *Zombie Runner* introduced ammo pickups of different ammo types, but those pickups were only placed statically throughout the world. I wanted to incentivise the player to not be wasteful with their ammo, so I limited the amount of ammo drops throughout the map, and made mimics drop arrow pickups on death. By default, if the player does not miss a shot when killing a mimic with a crossbow, they will net gain one arrow. I then created a pickup with access to the PlayerHealth script, and made a makeshift health drop, to be dropped by beholders on death. Bullet pickups, remain only found in the world, as the rifle is far stronger than the crossbow.
