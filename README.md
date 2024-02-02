@@ -17,7 +17,7 @@
   - Weapon Zoom: Right Mouse Button
   - Pause / Resume Game: Esacpe
 
-#How to Run the Game
+# How to Run the Game
 
   ![Dungeon-Runner ReadMe Instructions](https://github.com/H4lfdan/Dungeon-Runner/assets/105895180/d107044f-5a29-465d-828a-788054011b41)
   .
