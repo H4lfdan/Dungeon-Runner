@@ -47,6 +47,7 @@
  
 
 
-**Assets**
+**Credits**
 
+  - The basis of this project is taken from the "Zombie Runner" project from the Complete C# Unity Game Developer 3D course by Ben Tristem, Rick Davidson, the GameDev.tv Team, and Gary Pettie. https://www.udemy.com/course/unitycourse2/
   - The level is populated with monsters based on the beholders and mimics of Forgotten Realms. Models and animations made by Dungeon Mason: http://alexkim0415.wixsite.com/dungeonmason
