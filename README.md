@@ -55,6 +55,7 @@
   - Classical Crossbow asset by RyuGiKen https://assetstore.unity.com/packages/3d/props/weapons/classical-crossbow-196127
   - Vintage rifle - Western model asset by Dim Lit Studio https://assetstore.unity.com/packages/3d/props/weapons/vintage-rifle-western-model-211535
   - Low Poly Dungeons Lite assets by JustCreate https://assetstore.unity.com/packages/3d/environments/dungeons/low-poly-dungeons-lite-177937
+  - Campfires & Torches Models and FX! assets by Piloto Studio https://assetstore.unity.com/packages/3d/environments/campfires-torches-models-and-fx-242552
   - Music: *Instinct*, by Benjamin Tissot https://www.bensound.com/free-music-for-videos
   - Sound effects from freesound.org users andrest2003, Andromadax24, Bertsz, Erdie, Go2SleepD, MadPanCake, Micheal Klier, Michel88, phlair, and Robinhood76. 
 
