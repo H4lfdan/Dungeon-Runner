@@ -50,4 +50,10 @@
 **Credits**
 
   - The basis of this project is taken from the "Zombie Runner" project from the Complete C# Unity Game Developer 3D course by Ben Tristem, Rick Davidson, the GameDev.tv Team, and Gary Pettie. https://www.udemy.com/course/unitycourse2/
+  - Additional arrow functionality research from Nicolai Andersen https://www.youtube.com/watch?v=Fu9X3OowEy0
   - The level is populated with monsters based on the beholders and mimics of Forgotten Realms. Models and animations made by Dungeon Mason: http://alexkim0415.wixsite.com/dungeonmason
+  - Classical Crossbow asset by RyuGiKen https://assetstore.unity.com/packages/3d/props/weapons/classical-crossbow-196127
+  - Vintage rifle - Western model asset by Dim Lit Studio https://assetstore.unity.com/packages/3d/props/weapons/vintage-rifle-western-model-211535
+  - Music: *Instinct*, by Benjamin Tissot https://www.bensound.com/free-music-for-videos
+  - Sound effects from freesound.org users andrest2003, Andromadax24, Bertsz, Erdie, Go2SleepD, MadPanCake, Micheal Klier, Michel88, phlair, and Robinhood76. 
+
